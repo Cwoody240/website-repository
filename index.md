@@ -3,4 +3,4 @@
 Christian Woodington
 
 * [Tests](./tests/test/)
-* [JavaDoc](./javadoc/)
+* [JavaDoc](.javadoc/javadoc/)
